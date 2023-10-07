@@ -26,7 +26,7 @@ def login(request):
     print(hash_password('123456'))
     if r.exists(username):
         real_password = r.hget(username, 'password')
-        print(real_password.decode())
+        # print(real_password.decode())
         if verify_password(real_password, password):
             return render(request, 'welcome.html')
         else:
