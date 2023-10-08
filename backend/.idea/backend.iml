@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv/Include" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/Flask-2.2.5.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/Jinja2-3.1.2.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/MarkupSafe-2.1.3.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/Werkzeug-2.2.3.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/_plotly_future_" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/_plotly_utils" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/ansi2html" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/ansi2html-1.8.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/certifi" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/certifi-2023.7.22.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/charset_normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/charset_normalizer-3.3.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/click" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/click-8.1.7.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/colorama" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/colorama-0.4.6.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/dash" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/dash-2.13.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/dash_core_components" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/dash_core_components-2.0.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/dash_html_components" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/dash_html_components-2.0.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/dash_table" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/dash_table-5.0.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/flask" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/idna" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/idna-3.4.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/itsdangerous" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/itsdangerous-2.1.2.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/jinja2" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/jupyterlab_plotly" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/markupsafe" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/nest_asyncio-1.5.8.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/packaging" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/packaging-23.2.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/plotly" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/plotly-5.17.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/python_decouple-3.8.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/requests" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/requests-2.31.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/retrying-1.3.4.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/six-1.16.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/tenacity" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/tenacity-8.2.3.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/typing_extensions-4.8.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/urllib3" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/urllib3-2.0.6.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/werkzeug" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/etc" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/share" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
